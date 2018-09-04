@@ -1,0 +1,19 @@
+{
+  "name": "nwu-todo",
+  "version": "0.0.0",
+  "description": "Demontration Todo app utilizing NodeJS and GraphQL.",
+  "main": "start.js",
+  "author": "Pieter Rossouw",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "graphql-request": "^1.8.2",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
